@@ -1,0 +1,10 @@
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\bin\Debug\lr4_LagrangePolynomial.exe.config
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\bin\Debug\lr4_LagrangePolynomial.exe
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\bin\Debug\lr4_LagrangePolynomial.pdb
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.csprojAssemblyReference.cache
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.Form1.resources
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.Properties.Resources.resources
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.csproj.GenerateResource.cache
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.csproj.CoreCompileInputs.cache
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.exe
+D:\un\Чисельні методи\лр4\lr4_LagrangePolynomial\obj\Debug\lr4_LagrangePolynomial.pdb
